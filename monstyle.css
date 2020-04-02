@@ -1,0 +1,50 @@
+body{
+	background-color: #001b9d;
+	font-size: 22px;
+}
+main
+{
+	
+	text-align: center;
+}
+#survey-form{
+	background-color:#b2d7eb;
+	text-align: justify;
+	padding:25px 50px 75px 100px;
+	margin: 25px 300px 25px 300px;
+}
+#title{
+	color: #f3f3f3;
+}
+#description{
+	color: #f3f3f3;
+}
+#name{
+	height: 20px;
+	width: 400px;
+}
+#email{
+	height: 20px;
+	width: 400px;
+}
+#number{
+	height: 20px;
+	width: 400px;
+}
+#dropdown{
+	height: 20px;
+	width: 400px;
+}
+#textarea{
+	width: 395px;
+}
+#submit{
+	background-color: #37af65;
+	color: #f3f3f3;
+	height: 30px;
+	width: 400px;
+	font-size: 22px;
+	border-color: #37af65;
+	text-align: center;
+	padding: 
+}
